@@ -1,4 +1,10 @@
-
+/*
+ *  Analizador Sintacto para JSON simplificado
+ *  Materia: Compiladores
+ *  Tarea 2 - Analisis Sintactico
+ * Integrantes: Benjamin Unrau Dyck
+ *               Blanca Franco
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
